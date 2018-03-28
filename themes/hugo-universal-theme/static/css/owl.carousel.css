@@ -6,7 +6,9 @@
 /* clearfix */
 .owl-carousel .owl-wrapper:after {
 	content: ".";
-	display: block;
+	display: flex !important;
+	justify-content: center !important;
+	width: 100% !important;
 	clear: both;
 	visibility: hidden;
 	line-height: 0;

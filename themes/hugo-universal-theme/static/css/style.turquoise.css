@@ -1226,6 +1226,8 @@ fieldset[disabled] .btn-template-primary.active {
 .customers {
   padding: 0;
   margin-bottom: 40px;
+  display: flex;
+  justify-content: center;
 }
 .customers .item {
   list-style-type: none;
@@ -3529,7 +3531,7 @@ a.list-group-item.active > .badge,
 /*!
  * Yamm!3 - Yet another megamenu for Bootstrap 3
  * http://geedmo.github.com/yamm3
- * 
+ *
  * @geedmo - Licensed under the MIT license
  */
 .yamm .nav,

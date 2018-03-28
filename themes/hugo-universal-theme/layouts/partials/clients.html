@@ -12,8 +12,8 @@
                 <p class="lead">
                   {{ .Site.Params.clients.subtitle }}
                 </p>
-
-                <ul class="owl-carousel customers">
+                <div class="container">
+                <ul class=" owl-carousel customers">
                     {{ range .Site.Data.clients }}
                     <li class="item" title="{{ .name }}">
                         {{ if .url }}
@@ -27,6 +27,7 @@
                     {{ end }}
                 </ul>
                 <!-- /.owl-carousel -->
+              </div>
             </div>
         </div>
     </div>
