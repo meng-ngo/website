@@ -153,7 +153,7 @@ paginate = 10
     icon = "fa fa-file-code-o"
     title = "Do you want to see more of our work?"
     subtitle = "Click below to see what our organization is working on right now."
-    link_url = "#"
+    link_url = "/projects"
     link_text = "Check other projects"
 
 [params.clients]
