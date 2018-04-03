@@ -1,43 +1,38 @@
 +++
 title = "Who we are"
-description = "Frequently asked questions"
-keywords = ["FAQ","How do I","questions","what if"]
+description = "Who we are and Why we do it"
+keywords = ["FAQ","Who we are","questions","what if"]
 +++
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+We are a group of young people who graduated from university and decided to make their city a better place.
 
-## 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?
+## WHAT INSPIRED US
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+Being in a region that is far from being stable, our post university lives weren't at all what we expected. Most of us finished school in 2014 - 2015, the years terrorism was tearing through the region. Big companies left, and our economy fell. We saw people suffering, starving, and everything was falling apart. Looking at that situation we realized that to fix the society, we had to start with ourselves. As we started doing those activities, we realized that we had to spread our passion to other people. We decided to combine our experiences and passion and form this organization and try to reach and impact the lives of as many people as we can.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+## OUR TEAM
 
-## 2. WHAT ARE THE POSTAL RATES?
+What started with two people, gradually grew into a team of 8 people. We are young, energetic, and self motivated people who try to adapt to the society needs. Most of us are recent graduates who joined the team to have a positive impact on the people around us.
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+## WHAT WE DO
 
-## 3. DO YOU SEND OVERSEAS?
+Our activities cover a wide range of areas, those include:
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+### Career Development
 
-## 4. WHY ARE YOU MORE EXPENSIVE THAN OTHERS?
+We hold CV writing and career mentoring workshops to help university students in their transition to the industry. CV writing is an undervalued skill. It is essential to craft a good quality CV that will WOW the recruiters. Most students graduate with no knowledge in this topic and struggle in getting interviews. There is a big gap between what people learn at school and what's actually waiting for them when they try to get a job. Our mission is to close that gap by sharing our experiences in finding our dream jobs.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+### Environmental Awareness
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+We go out on the streets of the city or the suburbs during or after major events and try to target issues with the environment. Global warming, littering, and the lack of awareness are major problems in our cities. We can't depend on the government to keep every street clean and make our world greener. We have to act ourselves. Every person we inspire not to liter the planet will in turn impact people around them.
 
-## 5. ANOTHER IMPORTANT QUESTION
+### Society Development
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+Our aim is to be a beacon of positive energy in our society. We try to broadcast positive messages through social media and mural paintings. Positivity brings happiness. Happiness motivates people to be the better version of themselves. This in turn will create more positivity, less hate, and inspire others to broadcast this message and help us reach everyone in the city.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+** Do you relate to those things and would like to contribute to the society? If the answer is yes, come and volunteer with us! **
+
 
 ---
 
-> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.
+> Our plans are very flexible and we are very open to any ideas or suggestions for other activities. If you ever have an idea to help make the world a better place please don't hesitate to contact us.
