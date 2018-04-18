@@ -1153,7 +1153,7 @@ fieldset[disabled] .btn-template-primary.active {
 
 }
 
-@@media (min-width: 600px) {
+@media (min-width: 1200px) {
   .home-carousel {
     height: 600px;
   }
