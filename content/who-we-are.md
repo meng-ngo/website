@@ -30,7 +30,9 @@ We go out on the streets of the city or the suburbs during or after major events
 
 Our aim is to be a beacon of positive energy in our society. We try to broadcast positive messages through social media and mural paintings. Positivity brings happiness. Happiness motivates people to be the better version of themselves. This in turn will create more positivity, less hate, and inspire others to broadcast this message and help us reach everyone in the city.
 
-** Do you relate to those things and would like to contribute to the society? If the answer is yes, come and volunteer with us! **
+** Do you relate to those things and would like to contribute to the society? If the answer is yes, fill out this form and volunteer with us! **
+
+[Volunteering Form](https://goo.gl/forms/bMQkOtZ1JsDa96VV2)
 
 
 ---
